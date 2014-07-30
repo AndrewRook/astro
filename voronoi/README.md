@@ -5,10 +5,6 @@ Running the program is fairly simple. The only command line argument you need to
 The program can take a while (~an hour for the example images) to run, and so I recommend trying it out first on a smaller image to make sure everything is copacetic. While it runs it will print out diagnostic information so you know stuff is happening.  
 
 Dependencies:
-numpy
-astropy
-scikit-learn
-scipy
+numpy, astropy, scikit-learn, scipy
 
-Tested on:
-Python 2.7
+Tested on: Python 2.7
